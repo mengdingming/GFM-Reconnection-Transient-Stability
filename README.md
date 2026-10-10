@@ -46,10 +46,6 @@ To reproduce a particular case discussed in the manuscript, the power references
 - The presence of two model files does not by itself establish numerical equivalence between their outputs. Verify the results in the intended MATLAB release before making a cross-version comparison.
 - Numerical results and claimed performance improvements should be interpreted together with the assumptions and parameter settings reported in the associated manuscript.
 
-## Associated manuscript
-
-D. Meng *et al.*, **“Transient Stability Enhancement of VSG-Based Single-Loop Voltage-Magnitude Controlled Grid-Forming Inverters During Islanded-to-Grid Reconnection.”** Manuscript under revision for *Electric Power Systems Research*.
-
 ## Questions
 
 For questions about opening the models, missing dependencies, or reproducing a specific simulation case, please use the repository's **Issues** section and include the MATLAB release, the model filename, and the relevant error message or simulation settings.
